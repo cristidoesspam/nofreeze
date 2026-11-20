@@ -1,0 +1,17 @@
+{
+	"gamerule.nofreeze.water_cannot_freeze": "Water Cannot Freeze",
+	"gamerule.nofreeze.water_cannot_freeze.description": "Water never freezes into ice: not from cold weather, not during world generation, and not under Frost Walker boots.",
+
+	"nofreeze.screen.title": "No Freeze Settings",
+	"nofreeze.screen.note.hosted": "Applies to worlds you host.",
+	"nofreeze.screen.note.restart": "Permanent Mode changes apply the next time you open a world.",
+	"nofreeze.screen.note.server": "A dedicated server uses its own config/nofreeze.json.",
+
+	"key.category.nofreeze.nofreeze": "No Freeze",
+	"key.nofreeze.settings": "Open No Freeze settings",
+
+	"nofreeze.option.permanent": "Permanent Mode",
+	"nofreeze.option.permanent.tooltip": "On: water can never freeze, in every world, and the Water Cannot Freeze game rule is removed from /gamerule and the game rule screens. Off: the game rule is back and you choose per world. A world forgets its saved value for the rule while this is on.",
+	"nofreeze.option.block_frost_walker": "Block Frost Walker",
+	"nofreeze.option.block_frost_walker.tooltip": "While water cannot freeze, Frost Walker boots cannot turn water into frosted ice either. Turn this off to let them work."
+}

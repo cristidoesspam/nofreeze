@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "dev.nofreeze.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"BiomeMixin",
+		"GameRuleMixin",
+		"ReplaceDiskMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
